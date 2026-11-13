@@ -1,4 +1,8 @@
-# FinanceRAG 智能投研助手 · 正式实验回放
+# 溯数 TraceNum · 论文实验回放站
+
+> 本站是 **溯数 TraceNum** 的论文实验回放站，课程论文附录 C 引用的就是这个网址。
+> 溯数产品（实时查数、三策略实验台、底稿导出）见 **[XPIW-1/tracenum](https://github.com/XPIW-1/tracenum)**。
+> 本站早期名为“FinanceRAG 智能投研助手”，回放内容未改动。
 
 在线访问：https://xpiw-1.github.io/financerag-workbench/
 
