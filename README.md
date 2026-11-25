@@ -2,7 +2,8 @@
 
 > 本站是 **溯数 TraceNum** 的论文实验回放站，课程论文附录 C 引用的就是这个网址。
 > 溯数产品（实时查数、三策略实验台、底稿导出）见 **[XPIW-1/tracenum](https://github.com/XPIW-1/tracenum)**。
-> 本站早期名为“FinanceRAG 智能投研助手”，回放内容未改动。
+> 2026-11-25 起，首页换成溯数产品界面的回放（同样的 60 条正式运行，由原始运行记录转换，轮次与 token 与论文逐条一致）。
+> 论文附录 C 截图所用的旧版界面（早期名为“FinanceRAG 智能投研助手”）原样保留在 [`/legacy/`](https://xpiw-1.github.io/financerag-workbench/legacy/)，回放内容未改动。
 
 在线访问：https://xpiw-1.github.io/financerag-workbench/
 
